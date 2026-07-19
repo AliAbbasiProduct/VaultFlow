@@ -1,7 +1,7 @@
 # VaultFlow
 ### AI-Assisted Product Design Case Study
 
-![VaultFlow Cover](./assets/VaultFlow-Cover.jpg)
+![VaultFlow Cover](assets/VaultFlow-Cover.jpg)
 
 > An end-to-end product design case study exploring how AI can collaborate in UX research, product strategy, and interface design.
 
