@@ -37,20 +37,18 @@ The goal wasn't to replace human judgment, but to explore how AI can become a st
 │   └── VaultFlow-Cover.jpg
 │
 ├── case-study/
-│   └── AI Product Design Report.pdf
+│   └── VaultFlow-Case-Study-Fa.jpg
 │
 ├── design/
-│   ├── Sitemap
-│   ├── User Flows
-│   ├── Wireframes
-│   ├── UI Kit
-│   └── Final UI
+│   ├── Assets.pdf
+│   ├── Wireframes.pdf
+│   ├── UI-Design.jpg
 │
 └── research/
     ├── ChatGPT Research
     ├── Claude Research
     ├── Gemini Research
-    └── Final Synthesized Report
+    └── AI-Assisted UX Research Prompt
 ```
 
 ---
@@ -122,6 +120,6 @@ All research reports and supporting documents can be found in the **research** f
 
 ## 📬 Feedback
 
-This repository represents Version 1 of the project.
+This repository contains the prototype version of the project.
 
 Feedback, critiques, and discussions are highly appreciated.
