@@ -9,11 +9,11 @@
 
 ## 📖 About
 
-VaultFlow is a conceptual fintech application designed to help users automatically track personal expenses through bank SMS messages.
+This repository documents an intentional experiment in AI-assisted product design—an exploration of how effectively artificial intelligence can contribute as both a strategic thinking partner and an execution collaborator throughout the product design process.
 
-Unlike a traditional case study, this project documents an end-to-end design process where AI models (ChatGPT, Claude, and Gemini) actively participated in research, ideation, prioritization, UX strategy, and UI design.
+Rather than evaluating AI by the quality of its generated outputs alone, this project examines the entire collaboration: research, analysis, ideation, prioritization, design decisions, iteration, and human review.
 
-The goal wasn't to replace human judgment, but to explore how AI can become a strategic design partner.
+VaultFlow, a conceptual fintech application for automatically tracking personal expenses through bank SMS messages, serves as the project's design challenge. The product itself is not the primary objective; it provides a realistic context for exploring and documenting how humans and AI can collaborate throughout an end-to-end product design process.
 
 ---
 
